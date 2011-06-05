@@ -1,0 +1,5 @@
+salt (0.8.8-1) unstable; urgency=low
+
+  * Initial packaging for Debian/Ubuntu.
+
+ -- Travis B. Hartwell <nafai@travishartwell.net>  Sat, 04 Jun 2011 23:44:01 -0600
