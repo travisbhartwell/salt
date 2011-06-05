@@ -87,4 +87,10 @@ setup(name=NAME,
                      'doc/example/templates/json.json',
                     ]),
                  ],
+      install_requires = [
+        'pyzmq', # TODO Version Spec
+        'M2Crypto', # TODO Version Spec
+        'PyYaml', # TODO Version Spec
+        'PyCrypto', # TODO Version Spec
+        ],
      )
